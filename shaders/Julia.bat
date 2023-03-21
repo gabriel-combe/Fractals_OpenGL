@@ -1,0 +1,1 @@
+.\Fractals.exe -vs Julia.vs -fs Julia.fs -p 0,0
